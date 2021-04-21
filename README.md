@@ -15,3 +15,4 @@ Chapter 3:
 - Variables and mutability (variables)
 - Data types (data-types)
 - Functions (functions)
+- Control flow (if-god)
