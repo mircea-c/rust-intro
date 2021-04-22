@@ -16,3 +16,4 @@ Chapter 3:
 - Data types (data-types)
 - Functions (functions)
 - Control flow (if-god)
+- Ownership (ownership)
