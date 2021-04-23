@@ -17,3 +17,4 @@ Chapter 3:
 - Functions (functions)
 - Control flow (if-god)
 - Ownership (ownership)
+- Structs (structs)
