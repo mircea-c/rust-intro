@@ -18,3 +18,4 @@ Chapter 3:
 - Control flow (if-god)
 - Ownership (ownership)
 - Structs (structs)
+- Enums (enums)
